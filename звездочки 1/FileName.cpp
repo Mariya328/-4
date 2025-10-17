@@ -13,9 +13,7 @@ void main()
     scanf_s("%d%d%d%d%d", &v1, &v2, &v3, &v4, &v5);
 
     max = v1;
-    if (v2 > max) {
-        max = v2;
-    }
+    
 
     if (v3 > max) {
         max = v3;
