@@ -15,9 +15,7 @@ void main()
     max = v1;
     
 
-    if (v3 > max) {
-        max = v3;
-    }
+   
 
     if (v4 > max) {
         max = v4;
